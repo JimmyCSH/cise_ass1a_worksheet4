@@ -1,3 +1,4 @@
+// SE Practices
 const SEPractices = [
     {
       id: 1,
