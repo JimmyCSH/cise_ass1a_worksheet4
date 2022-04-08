@@ -4,6 +4,7 @@ import Table from "../components/Evidencetable.js";
 import tablecolumns from "../components/tablecolumns.js";
 import Dropdown from "../components/Dropdown.js";
 
+// SE Practices Page
 const SEPractice = () => {
     return (
       <div>

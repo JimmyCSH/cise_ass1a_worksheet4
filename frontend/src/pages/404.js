@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 
+// 404 Page
 class NotFoundPage extends Component {
   render() {
     return (
