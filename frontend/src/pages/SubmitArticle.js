@@ -1,6 +1,7 @@
 import React from "react";
 import SubmissionForm from "../components/SubmissionForm.js";
  
+// Submit Article Page
 const SubmitArticle = () =>  {
      return (
       <div>

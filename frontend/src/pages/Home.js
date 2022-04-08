@@ -1,5 +1,6 @@
 import React from "react";
  
+// Home Page
 const Home = () =>  {
     return (
       <div>
