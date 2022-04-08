@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 
+// Table Style
 const Styles = styled.div `
   table {
     width: 100%;

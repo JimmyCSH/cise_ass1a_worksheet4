@@ -1,3 +1,4 @@
+// Table Columns
 const tablecolumns = [
     {
       Header: 'Title',
