@@ -2,6 +2,7 @@ import React, {useMemo} from "react";
 import articles from "../dummydata/articles.js";
 import { useTable, useSortBy, usePagination } from 'react-table';
 
+// Evidence Table
 const Table = ({columns, data}) => {
 const {
     getTableProps,
